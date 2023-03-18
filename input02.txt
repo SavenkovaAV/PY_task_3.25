@@ -1,0 +1,6 @@
+Ivanov Ivan Ivanovich, M, 1, 4.8
+Petrov Petr Petrovich, M, 1, 4.8
+Sidorov Sidr Mikhailovich, M, 1, 4.8
+Kuznetsova Kuznya Nikolaevna, F, 1, 4.8
+Petrova Petrushka Petrovna, F, 1, 4.8
+Sidorova Sidrana Ivanovna, F, 1, 4.8

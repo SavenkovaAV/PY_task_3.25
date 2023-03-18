@@ -1,0 +1,10 @@
+Список студентов, отправляющихся на новогодний бал.
+От 1 курса:
+Kuznetsov Ivan Ivanovich (4.8)
+Petrova Anna Nikolaevna (4.9)
+От 2 курса:
+Petrov Ivan Mikhailovich (4.7)
+Kuzmina Maria Alexandrovna (4.8)
+От 3 курса:
+Petrov Mikhail Konstantinovich (5.0)
+Kuznetsova Olga Ivanovna (5.0)

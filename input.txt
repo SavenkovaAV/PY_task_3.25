@@ -1,0 +1,12 @@
+Ivanova Maria Mikhailovna, F, 1, 4.8
+Petrova Anna Nikolaevna, F, 1, 4.9
+Sidorov Pyotr Sergeevich, M, 1, 4.7
+Kuznetsov Ivan Ivanovich, M, 1, 4.8
+Smirnova Anna Petrovna, F, 2, 4.9
+Kuzmina Maria Alexandrovna, F, 2, 4.8
+Sidorova Olga Viktorovna, F, 2, 4.9
+Petrov Ivan Mikhailovich, M, 2, 4.7
+Kuznetsova Olga Ivanovna, F, 3, 5.0
+Smirnov Ivan Vladimirovich, M, 3, 4.9
+Ivanov Peter Dmitrievich, M, 3, 4.9
+Petrov Mikhail Konstantinovich, M, 3, 5.0

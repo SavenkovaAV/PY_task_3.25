@@ -1,0 +1,8 @@
+Test 1: passed
+Test 2: passed
+('Sidorov Sidr Mikhailovich', 4.8, '1'), ('Sidorova Sidrana Ivanovna', 4.8, '1')
+Test 3: passed
+Test 4: passed
+('Ivanov Ivan Ivanovich', 4.8, '1'), ('Kuznetsova Kuznya Petrovna', 4.8, '1'), ('Petrov Petr Petrovich', 4.9, '2'), ('Petrova Petrushka Petrovna', 4.7, '2'), ('Sidorov Sidr Vladimirovich', 4.9, '3'), ('Kuznetsova Olga Ivanovna', 5.0, '3')
+Test 5: passed
+('Sidorov Sidr Sergeevich', 4.7, '1'), ('Sidorova Sidrana Ivanovna', 4.7, '1')
